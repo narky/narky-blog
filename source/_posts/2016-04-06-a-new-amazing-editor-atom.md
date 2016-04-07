@@ -9,8 +9,9 @@ categories:
   -编辑器
 ---
 
-> 开始从Sublime Text转向另一个神器Atom
+开始从Sublime Text转向另一个神器Atom
 这个Github出品的类似于sublime的翻版的编辑器迭代到1.7beta以后变得更加好用了
+
 我现在安装的Atom插件如下
 
 - emmet
@@ -24,4 +25,4 @@ categories:
 - simplified-chinese-menu
 - sync-settings
 
-> 装上这些插件以后就可以很爽快的写代码啦
+装上这些插件以后就可以很爽快的写代码啦
