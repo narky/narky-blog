@@ -2,11 +2,11 @@
 title: 从Sublime Text转向另一个神器Atom
 date: 2016-04-06 19:40:34
 tags:
-  -编辑器
-  -atom
-  -sublime
+  - 编辑器
+  - atom
+  - sublime
 categories:
-  -编辑器
+  - 编辑器
 ---
 
 开始从Sublime Text转向另一个神器Atom
