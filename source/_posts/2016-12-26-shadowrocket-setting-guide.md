@@ -14,7 +14,7 @@ categories:
 
 然后点下面的配置，点右上角的加号，填入网址
 
-[http://www.abclite.cn/Abclite_SR.conf](http://www.abclite.cn/Abclite_SR.conf)
+[http://www.abclite.pro/Conf/AbcLite_SR.conf](http://www.abclite.pro/Conf/AbcLite_SR.conf)
 
 ![image](http://7xsom0.com1.z0.glb.clouddn.com/487646451113972965.jpg)
 
